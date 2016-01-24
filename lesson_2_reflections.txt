@@ -1,0 +1,8 @@
+Q:	What happens when you initialize a repository? Why do you need to do it?
+
+	A: It creats a git repository without commits. Track changes in my files.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	A: It is a transition area where you can logically control what you want to commit.
+	   The value is that you can have a better logical control.
