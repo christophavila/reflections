@@ -10,3 +10,8 @@ Q: How is the staging area different from the working directory and the reposito
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
 	A: By moving the modified file only to the Stage area without commiting all untouched files.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	A: New experimental changes, test new versions without affecting users. Branches keep control of different project versions.
+
