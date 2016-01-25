@@ -15,3 +15,6 @@ Q: What are some situations when branches would be helpful in keeping your histo
 
 	A: New experimental changes, test new versions without affecting users. Branches keep control of different project versions.
 
+Q: How do the diagrams help you visualize the branch structure?
+
+	A: It is easier to keep control and understand the branches in the project.
