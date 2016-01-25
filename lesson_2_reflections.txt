@@ -18,3 +18,7 @@ Q: What are some situations when branches would be helpful in keeping your histo
 Q: How do the diagrams help you visualize the branch structure?
 
 	A: It is easier to keep control and understand the branches in the project.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	A: Apply changes made in an alternative branche to the trunk one. It is easier to view the tree by using diagrams.
