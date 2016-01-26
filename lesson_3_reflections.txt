@@ -1,3 +1,7 @@
 Q: When would you want to use a remote repository rather than keeping all your work local?
 
   A: It is useful to get a backup of you work in the cloud and also to make public what is ready to be published.
+
+ Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+ 	A: I would push commits to public repositories manually and commits to private repositories automatically (if possible)
