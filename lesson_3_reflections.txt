@@ -1,0 +1,3 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+  A: It is useful to get a backup of you work in the cloud and also to make public what is ready to be published.
