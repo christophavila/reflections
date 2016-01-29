@@ -5,3 +5,10 @@ Q: When would you want to use a remote repository rather than keeping all your w
  Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
  	A: I would push commits to public repositories manually and commits to private repositories automatically (if possible)
+
+ Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+ 	A: Fork:  Duplicate repository inside GitHub.
+ 	   Clones: Dupliate repository inside your laptop or from Github to your laptop
+       Branches: stream of commits.
+
