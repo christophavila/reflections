@@ -12,3 +12,7 @@ Q: When would you want to use a remote repository rather than keeping all your w
  	   Clones: Dupliate repository inside your laptop or from Github to your laptop
        Branches: stream of commits.
 
+ Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ 	A: Keep sync of the changes and hav a backup in case of sycn problem.
+
