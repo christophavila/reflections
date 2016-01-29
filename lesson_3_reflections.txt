@@ -16,3 +16,8 @@ Q: When would you want to use a remote repository rather than keeping all your w
 
  	A: Keep sync of the changes and hav a backup in case of sycn problem.
 
+ Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ 	A: Maybe SVN but Git is much better :) ... Pull Requests keep track of all the flow, and that is great!
+
+
