@@ -20,4 +20,7 @@ Q: When would you want to use a remote repository rather than keeping all your w
 
  	A: Maybe SVN but Git is much better :) ... Pull Requests keep track of all the flow, and that is great!
 
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	A: The process is very confusing, and the the videos did not help a lot. I would only use Branch as experimental and use  1 or 2 branches only.
 
